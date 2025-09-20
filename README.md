@@ -13,3 +13,5 @@ Part3-3 does not use this, but sucks.
 Did not get to more.
 
 Part456 is just expirementing with claude to be honest, just including it because it kinda works
+
+Video/pictures are in this repo
